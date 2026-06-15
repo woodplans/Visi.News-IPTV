@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>A Modern IPTV Player for Windows, Android, and Android TV</strong>
+  <strong>A Modern IPTV Player for Android, and Android TV</strong>
 </p>
 Visi.News IPTV is a modern, high-performance IPTV player built with Flutter. Features a beautiful VisiNews-themed UI with gradient accents(Split-screen support), optimized for seamless viewing across desktop, mobile, and TV platforms.
 
