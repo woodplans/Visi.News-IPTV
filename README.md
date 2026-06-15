@@ -1,7 +1,7 @@
 # Visi.News IPTV
 
 <p align="center">
-  <img src="assets/icons/icon.png" width="120" alt="Visi,News IPTV Logo">
+  <img src="assets/icons/icon.png" width="512" alt="Visi.News IPTV Logo">
 </p>
 
 <p align="center">
