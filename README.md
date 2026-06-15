@@ -1,26 +1,13 @@
-# Lotus IPTV
+# Visi.News IPTV
 
 <p align="center">
-  <img src="assets/icons/app_icon.png" width="120" alt="Lotus IPTV Logo">
+  <img src="assets/icons/app_icon.png" width="120" alt="Visi,News IPTV Logo">
 </p>
 
 <p align="center">
   <strong>A Modern IPTV Player for Windows, Android, and Android TV</strong>
 </p>
-
-<p align="center">
-  <a href="https://github.com/shnulaa/FlutterIPTV/releases">
-    <img src="https://img.shields.io/github/v/release/shnulaa/FlutterIPTV?include_prereleases" alt="Latest Release">
-  </a>
-  <a href="https://github.com/shnulaa/FlutterIPTV/actions/workflows/build-release.yml">
-    <img src="https://github.com/shnulaa/FlutterIPTV/actions/workflows/build-release.yml/badge.svg?branch=main" alt="Build Status">
-  </a>
-  <a href="https://github.com/shnulaa/FlutterIPTV/releases">
-    <img src="https://img.shields.io/github/downloads/shnulaa/FlutterIPTV/total" alt="Downloads">
-  </a>
-</p>
-
-Lotus IPTV is a modern, high-performance IPTV player built with Flutter. Features a beautiful Lotus-themed UI with pink/purple gradient accents(Split-screen support), optimized for seamless viewing across desktop, mobile, and TV platforms.
+Visi.News IPTV is a modern, high-performance IPTV player built with Flutter. Features a beautiful VisiNews-themed UI with gradient accents(Split-screen support), optimized for seamless viewing across desktop, mobile, and TV platforms.
 
 ## 📸 Screenshots
 
@@ -56,7 +43,7 @@ https://iptv-org.github.io/iptv/index.m3u
 ```
 
 **How to add:**
-1. Open Lotus IPTV
+1. Open Visi.News IPTV
 2. Click "Add Playlist" or "+" button
 3. Select "From URL"
 4. Paste the URL above
@@ -71,10 +58,10 @@ https://iptv-org.github.io/iptv/index.m3u
 
 ## 🚀 Download
 
-Download the latest version from [Releases Page](https://github.com/shnulaa/FlutterIPTV/releases/latest).
+Download the latest version from Google Playstore.
 
-### Available Platforms
-- **Windows**: x64 Installer (.exe)
+**Supported Platforms**
+
 - **Android Mobile**: APK for arm64-v8a, armeabi-v7a, x86_64
 - **Android TV**: APK for arm64-v8a, armeabi-v7a, x86_64
 
@@ -128,7 +115,6 @@ Download the latest version from [Releases Page](https://github.com/shnulaa/Flut
 - Theme colors applied globally: selection boxes, buttons, icons, gradients
 
 ### 📺 Multi-Platform Support
-- **Windows**: Desktop-optimized UI with keyboard shortcuts and mini mode
 - **Android Mobile**: Touch-friendly interface with gesture controls
 - **Android TV**: Full D-Pad navigation with remote control support
 
@@ -182,36 +168,6 @@ Download the latest version from [Releases Page](https://github.com/shnulaa/Flut
 - Playback control from casting device (play/pause/seek/volume)
 - Auto-start DLNA service option
 
-## 🛠️ Development
-
-### Prerequisites
-- Flutter SDK (>=3.5.0)
-- Android Studio (for Android/TV builds)
-- Visual Studio (for Windows builds)
-
-### Build
-```bash
-git clone https://github.com/shnulaa/FlutterIPTV.git
-cd FlutterIPTV
-flutter pub get
-
-# Run
-flutter run -d windows
-flutter run -d <android_device>
-
-# Build Release
-flutter build windows
-flutter build apk --release
-```
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-
 ## ⚠️ Disclaimer
 
 This application is a player only and does not provide any content. Users must provide their own M3U playlists. Developers are not responsible for the content played through this application.
-
-## 📄 License
-
-This project is licensed under the MIT License.
